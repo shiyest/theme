@@ -8,7 +8,7 @@
                 <?php do_action( 'adminb_credits' )?>
             </div>
 			<div class='right'>
-                <span><a href="http://www.shiyest.cn/wp-login.php" target="_blank">登陆</a></span>
+                <span><a href="/wp-login.php" target="_blank">登陆</a></span>
             </div>
         </div>
     </section>
